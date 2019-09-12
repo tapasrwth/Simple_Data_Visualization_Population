@@ -1,7 +1,7 @@
 # Simple_Data_Visualization_Population
 This project consists of simple data visualization and machine learning methods applied on a small set of data consists of 143 countries and their population between 1952-2007
 
-Data Content: 
+Data Content: "country_population.csv"
 Name of 143 Countries and their population for 1952 to 2007
 
 *Used library*: pandas, numpy, matplotlib, seaborn, sklearn
